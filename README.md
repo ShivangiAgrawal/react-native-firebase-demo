@@ -1,3 +1,3 @@
-# Working example of firebase-authentication
+# Firebase-authentication
 
-# Working example of firebase-database in react-native
+# Firebase-database in react-native
